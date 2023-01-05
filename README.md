@@ -1,5 +1,7 @@
 # Movies & TV Shows
 
+Find trending movies & tv shows and browse various items.
+
 > [See website](https://movies-and-tvs.web.app/)
 
 ### Stack used: React, SCSS, Rapid API
