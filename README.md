@@ -15,8 +15,10 @@ Run `npm start` and enjoy!
 <hr />
 
 > [See website](https://movies-and-tvs.web.app/)
+<hr />
 
 ### Stack used: React, SCSS, Rapid API
+<hr />
 
 #### *Home Page*
 
