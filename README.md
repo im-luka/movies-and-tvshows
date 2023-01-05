@@ -1,4 +1,4 @@
-# Movies & TV Shows
+# 🎥 Movies & TV Shows
 
 *Find trending movies & tv shows or search for desired ones.*
 
