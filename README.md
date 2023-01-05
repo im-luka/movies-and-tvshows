@@ -1,6 +1,6 @@
 # Movies & TV Shows
 
-Find trending movies & tv shows and browse various items.
+Find trending movies & tv shows or search for desired ones.
 
 > [See website](https://movies-and-tvs.web.app/)
 
