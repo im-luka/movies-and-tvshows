@@ -1,6 +1,18 @@
 # Movies & TV Shows
 
-Find trending movies & tv shows or search for desired ones.
+*Find trending movies & tv shows or search for desired ones.*
+
+### For starting project locally:
+
+Run `npm install` after downloading the project.
+
+Create `.env` file at the root of the project named `REACT_APP_API_KEY` and assign it to your Api Key.
+
+For more information how to get your Api Key follow [TMDB API Documentation](https://www.themoviedb.org/documentation/api).
+
+Run `npm start` and enjoy!
+
+<hr />
 
 > [See website](https://movies-and-tvs.web.app/)
 
