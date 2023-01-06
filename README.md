@@ -6,7 +6,7 @@
 
 Run `npm install` after downloading the project.
 
-Create `.env` file at the root of the project named `REACT_APP_API_KEY` and assign it to your Api Key.
+Create `.env` file at the root of the project with variable `REACT_APP_API_KEY` and assign your API key to it.
 
 For more information how to get your Api Key follow [TMDB API Documentation](https://www.themoviedb.org/documentation/api).
 
