@@ -38,4 +38,3 @@ Run `npm start` and enjoy!
 #### *Details Page*
 
 ![tmdb04](https://user-images.githubusercontent.com/46372998/178101550-b58b092d-5cb3-483b-9124-3454287b426a.png)
-
